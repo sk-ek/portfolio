@@ -1,17 +1,13 @@
 ---
 date: '2'
-title: 'Disney+ Clone'
-cover: './disneyclone.png'
-github: 'https://github.com/yashitanamdeo/Disney-plus-Clone'
-external: 'https://disney-clone-83e44.web.app/'
+title: 'Presentation about an entrepreneur'
+cover: './billgates.png'
+external: 'https://docs.google.com/presentation/d/1nie2WhfmLp6voSdBGAWFzi4EviJkxwEOM5aZg4KIiwg/edit?usp=sharing'
 tech:
-  - ReactJS
-  - Redux
-  - Styled Components
-  - Firebase
+  - Business
 showInProjects: true
 ---
 
-Built Disney+ Clone with React JS with Google account's Sign in feature. Styled to get 15+ movies made by Disney; clickable images to get details of the specific movie.
+Presentation about an entrepreneur that I found interesting:
 
-Inspired by Clever Programmer's [Youtube Channel](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ).
+Bill Gates

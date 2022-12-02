@@ -1,18 +1,14 @@
 ---
 date: '1'
-title: 'Covid-19 Tracker'
-cover: 'demo1.png'
-github: 'https://github.com/yashitanamdeo/Covid19-tracker'
-external: 'https://covid19-tracker-84ef4.web.app/'
+title: 'Presentation about Bui Xuan Phai'
+cover: 'buixuanphai.png'
+external: 'https://docs.google.com/presentation/d/1Qdiw1tPm7z5jENt2uqkrnqv73GqYoXKNl6UeXAuC62M/edit?usp=sharing'
 tech:
-  - ReactJS
-  - Firebase
-  - Material UI
+  - Vietnamese Study
 
 showInProjects: true
 ---
 
-Designed and implemented React-based Web Application to monitor live corona cases, recoveries, and
-deaths(clickable tabs) in 180+ countries worldwide. Directed to display 2 features – worldwide cases and countries based report; clickable markers on the map to show country stats and line chart for fluctuations over days, on hover, gives exact figures.
+Presentation about Vietnamese artist Bui Xuan Phai
 
-Inspired by Clever Programmer's [Youtube Channel](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ).
+working with team 2: Remy, Nghi, Jackie, JJ, Lam, Thanh An, and MTB
