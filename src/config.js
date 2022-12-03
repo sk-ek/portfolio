@@ -42,7 +42,7 @@ module.exports = {
       url: '/#about',
     },
     {
-      name: 'Experience',
+      name: 'Scores',
       url: '/#jobs',
     },
     {
@@ -50,7 +50,7 @@ module.exports = {
       url: '/#projects',
     },
     {
-      name: 'Contact',
+      name: 'Goals',
       url: '/#contact',
     },
   ],
