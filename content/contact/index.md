@@ -1,6 +1,8 @@
 ---
-title: 'Get In Touch'
-buttonText: 'Mail Me'
+title: 'My goals for this year'
+buttonText: 'Goals'
 ---
 
-My inbox is always open. Whether you have a question or just want to say hello, I'll try my best to get back to you! Feel free to mail me about any relevant job updates.
+Get high scores in subjects that I'm weak in: Vietnamese Literature, History, Geography
+
+Be a good conduct
